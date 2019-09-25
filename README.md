@@ -1,0 +1,5 @@
+# StarbucksOfferOptimization
+![image.png](images/starbucks_cover_image.png)
+Introduction:
+Promotional offers are the order of the day. Almost every corporate organization that sells consumer products does some kind of promotional offers  - be it due to increased competition, or to expand customer base or to generate more revenue. However, sending these offers, costs the organization. It is of utmost importance to maximize the likelihood of success for these offers by devising effective promotional strategies. 
+In this post, we will analyze 30 days of promotional offers data from Starbucks app to derive business insights about the data and then translate these findings in building an ‘explainable’ machine learning model (https://en.wikipedia.org/wiki/Explainable_artificial_intelligence)that will predict whether or not a customer is going to respond to an offer. The objective is to send offers to only those customers who are more likely to respond and also send offers  having maximum chance of success with that customer. 
